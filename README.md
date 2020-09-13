@@ -1,6 +1,6 @@
 <!-- Leave a one blank line. -->
 <br>
-[\\]:# (Give a title to this file.)
+<!-- Give a title to this file. -->
 # <center> USA traffice accidents data analysis and data vsualization
 
 <!-- Insert a topic/ project related illustrative image.-->
