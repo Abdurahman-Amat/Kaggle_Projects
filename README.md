@@ -1,5 +1,3 @@
-<!-- Leave a one blank line. -->
-<br>
 <!-- Give a title to this file. -->
 <h1 style="text-align: center;"> USA traffice accidents data analysis and data vsualization</h1>
 <!-- Insert a topic/ project related illustrative image.-->
