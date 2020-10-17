@@ -12,7 +12,8 @@
 
 * <a href="#ref0">About this Project</a>
 * <a href="#ref1">Technical features</a>
-* <a href="#ref2">References
+* <a href="#ref2">Usage Policy and Legal Disclaimer about the used dataset</a>
+* <a href="#ref3">References
 
 <br>
 <!-- Horizontal line -->
@@ -37,8 +38,17 @@ This is a simple data analysis and data visulization project. The dataset used i
 	* Jupyter Notebook
 	* Git
 	
-**<a id="ref2">References</a>**
+** <a id="ref2">Usage Policy and Legal Disclaimer about the used dataset</a>**
 
- [1]. <a href="https://arxiv.org/abs/1906.05409">arXiv:1906.05409</a>  
- [2]. <a href="https://arxiv.org/abs/1909.09638">arXiv:1909.09638</a>
+The original provider of the dataset used in this project has also added the following **<a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">Usage Policy and Legal Disclaimer</a>**:
+
+_This dataset is being distributed only for Research purposes, under Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may need to cite the above papers if you use this dataset._
+
+As we all knew that collecting such a large amount of usefull dataset is not an easy task. Therefore as the author of this project, I sincerely ask those who are planning to use this dataset to respect the work of the original provider and abovementioned license.
+    
+**<a id="ref3">References</a>**
+	
+ [1]. <a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">Dataset at Kaggle:  www.kaggle.com/sobhanmoosavi/us-accidents</a>
+ [2]. <a href="https://arxiv.org/abs/1906.05409">arXiv:1906.05409</a>  
+ [3]. <a href="https://arxiv.org/abs/1909.09638">arXiv:1909.09638</a>
 
