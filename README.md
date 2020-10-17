@@ -42,7 +42,7 @@ This is a simple data analysis and data visulization project. The dataset used i
 
 The original provider of the dataset used in this project has also added the following **<a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">Usage Policy and Legal Disclaimer</a>**:
 
-_This dataset is being distributed only for Research purposes, under Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may need to cite the above papers if you use this dataset._
+>_This dataset is being distributed only for Research purposes, under Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may need to cite the above papers if you use this dataset._
 
 As we all knew that collecting such a large amount of usefull dataset is not an easy task. Therefore as the author of this project, I sincerely ask those who are planning to use this dataset to respect the work of the original provider and abovementioned license.
     
