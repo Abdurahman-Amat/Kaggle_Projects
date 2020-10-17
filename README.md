@@ -27,17 +27,10 @@ This is a simple data analysis and data visulization project. The dataset used i
 
 * There are more than **3.5 million** accidents are recorded.
 * Used tools and libraries:
-	* Python
-	* Matplotlib
-	* Numpy
-	* Pandas
-	* Folium
-	* Waffle
-	* wordcloud
-	* Markdown
-	* Jupyter Notebook
-	* Git
-	
+
+*	 <img src="images/US_accidents_tools_logos.svg" alt="traffic_accident_img"
+         title="One accident image" width="500 px0" height="250"/>
+    
 **<a id="ref2">Usage Policy and Legal Disclaimer about the used dataset</a>**
 
 The original provider of the dataset used in this project has also added the following **Usage Policy and Legal Disclaimer**:
