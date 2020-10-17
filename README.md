@@ -38,7 +38,7 @@ This is a simple data analysis and data visulization project. The dataset used i
 	* Jupyter Notebook
 	* Git
 	
-** <a id="ref2">Usage Policy and Legal Disclaimer about the used dataset</a>**
+**<a id="ref2">Usage Policy and Legal Disclaimer about the used dataset</a>**
 
 The original provider of the dataset used in this project has also added the following **<a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">Usage Policy and Legal Disclaimer</a>**:
 
