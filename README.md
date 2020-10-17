@@ -48,7 +48,7 @@ As we all knew that collecting such a large amount of usefull dataset is not an 
     
 **<a id="ref3">References</a>**
 	
- [1]. <a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">Dataset at Kaggle:  www.kaggle.com/sobhanmoosavi/us-accidents</a>
- [2]. <a href="https://arxiv.org/abs/1906.05409">arXiv:1906.05409</a>  
- [3]. <a href="https://arxiv.org/abs/1909.09638">arXiv:1909.09638</a>
+[1]. <a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">Dataset at Kaggle:  www.kaggle.com/sobhanmoosavi/us-accidents</a> 
+[2]. <a href="https://arxiv.org/abs/1906.05409">arXiv:1906.05409</a>  
+[3]. <a href="https://arxiv.org/abs/1909.09638">arXiv:1909.09638</a>
 
