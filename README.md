@@ -48,10 +48,10 @@ As we all knew that collecting such a large amount of usefull dataset is not an 
 <br>
 
 * Hourly distribution
-	<img src="images/hourly_distribution.png" width="600 px0" height="1100"/>
+<img src="images/hourly_distribution.png" width="600 px0" height="1100"/>
 
-* * Distribution by temperature
-	<img src="images/distribution_by_temperature.png" width="800 px0" height="500"/>
+* Distribution by temperature
+<img src="images/distribution_by_temperature.png" width="800 px0" height="500"/>
 
 **<a id="ref3">References</a>**
 	
