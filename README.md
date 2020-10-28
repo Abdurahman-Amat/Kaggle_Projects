@@ -40,7 +40,8 @@ The original provider of the dataset used in this project has also added the fol
 
 As we all knew that collecting such a large amount of usefull dataset is not an easy task. Therefore as the author of this project, I sincerely ask those who are planning to use this dataset to respect the work of the original provider and abovementioned license.
 
-** <a id="eg">Few example plots</a>**
+**<a id="eg">Few example plots</a>**
+
 * Distribution os the accidents
 	<img src="images/us_accidents_distribution.png" width="900 px0" height="500"/>
 <br>
