@@ -13,6 +13,7 @@
 * <a href="#ref0">About this Project</a>
 * <a href="#ref1">Technical features</a>
 * <a href="#ref2">Usage Policy and Legal Disclaimer about the used dataset</a>
+* <a href="#eg">Few example plots</a>
 * <a href="#ref3">References
 
 <br>
@@ -38,7 +39,18 @@ The original provider of the dataset used in this project has also added the fol
 >_This dataset is being distributed only for Research purposes, under Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may need to cite the above papers if you use this dataset._
 
 As we all knew that collecting such a large amount of usefull dataset is not an easy task. Therefore as the author of this project, I sincerely ask those who are planning to use this dataset to respect the work of the original provider and abovementioned license.
-    
+
+** <a id="eg">Few example plots</a>**
+* Distribution os the accidents
+	<img src="images/us_accidents_distribution.png" width="900 px0" height="500"/>
+<br>
+<br>
+* Hourly distribution
+	<img src="images/hourly_distribution.png" width="600 px0" height="1100"/>
+* Distribution by temperature
+	<img src="images/distribution_by_temperature.png" width="800 px0" height="500"/>
+
+
 **<a id="ref3">References</a>**
 	
 [1]. <a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">  www.kaggle.com/sobhanmoosavi/us-accidents</a>  
