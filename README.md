@@ -46,7 +46,7 @@ As we all knew that collecting such a large amount of usefull dataset is not an 
 	<img src="images/us_accidents_distribution.png" width="900 px0" height="500"/>
 <br>
 * Most traffice accidents were taken place in these eight US States
-	<img src="images/Screenshot from 2024-12-26 23-17-57.png" width="700 px0" height="200"/>
+	<img src="images/Screenshot from 2024-12-26 23-17-57.png" width="700 px0" height="150"/>
 <br>
 
 * Hourly distribution
