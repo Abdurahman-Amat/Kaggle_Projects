@@ -22,11 +22,11 @@
 
 **<a id="ref0">About this Project</a>** 
 
-This is a simple data analysis and data visulization project. The dataset used in this project was provided in Kaggle's Data category in this link:  **https://www.kaggle.com/sobhanmoosavi/us-accidents** or directly accessible at the personal site of provider _Sobhan Moosavi_ in this link:  **https://smoosavi.org/datasets/us_accidents**. The dataset covers all recorded traffic accidents occured in 49 states of the United States from February 2016 to June 2020. 
+This is a simple data analysis and data visulization project. The dataset used in this project was provided in Kaggle's Data category in this link:  **https://www.kaggle.com/sobhanmoosavi/us-accidents**. The dataset covers all recorded traffic accidents occured in 49 states of the United States from February 2016 to June 2023. 
 
 **<a id="ref1">Technical features</a>**
 
-* There are more than **3.5 million** accidents are recorded.
+* There are more than **7.7 million** recorded accidents are analized.
 * Used tools and libraries:
 
 *	 <img src="images/US_accidents_tools_logos.svg" alt="traffic_accident_img"
